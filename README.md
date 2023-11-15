@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in New York, NY
-* 🖥️  See my portfolio at [matthewalvarez.dev](https://matthewalvarez.dev)
+* 🖥️  See my portfolio at [matthewalvarez.dev](http://matthewalvarez.org)
 * ✉️  You can contact me at [mattalvarez354@yahoo.com](mailto:mattalvarez354@yahoo.com)
 * 🚀  I'm currently working on [Mern Stack NASA Launch Tracker](http://github.com/C0ding-K1D/Nasa-launch-tracker-)
 * 🧠  I'm learning Micro Services with Docker & Kubernetes
